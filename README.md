@@ -1,2 +1,3 @@
 "# Control-Local-Storage" 
-آot responsev..( only for build coding logic )
+
+Not responsev..( only for build coding logic )
